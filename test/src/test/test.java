@@ -7,7 +7,7 @@ public class test {
 		
 		
 		System.out.println("toto");
-		
+		System.out.println("toto");
 	}
 
 }
